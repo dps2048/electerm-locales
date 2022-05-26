@@ -1,5 +1,5 @@
 /**
- * language: english
+ * language: 简体中文
  */
 const lang = {
 
